@@ -8,3 +8,5 @@ Haddii uusan git kugu jirin kombuyuutarkaaga, ku shubo.
 # Nuqul Ka Sameyso Keydiyahaan
 
 Nuqul ka sameyso keydiyahaan adigoo gujinaya badhanka nuqulka ee kuyaal qeybta sare ee boggaan.  Tani waxay koontadaada ku abuuri doontaa nuqulka keydiyahaan.
+
+# Soo qaad keydiyaha
