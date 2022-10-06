@@ -4,3 +4,5 @@ Mashruucani waxa uu ujeedkiisu yahay in uu fududeeyo uuna hago habka ay kuwa bil
 Haddii ay kugu adagtahay in aad isticmaasho amarada shahada madow(command line), halkaan ayaad ka heleysa cashirro la isticmalaayo GUI.
 
 Haddii uusan git kugu jirin kombuyuutarkaaga, ku shubo.
+
+@anwar
