@@ -12,7 +12,7 @@ Nuqul ka sameyso keydiyahaan adigoo gujinaya badhanka nuqulka ee kuyaal qeybta s
 
 # Soo qaad keydiyaha
 
-#Si aad kumbuyuutarkaada ugu keydsato keydiyaha aad nuqulka ka sameysatay, marka hore tag koontadaada Github-ka, dooro keydiyaha nuqulka ah, guji badhanka code-ka, kadib ku dhufo sumadda sabuuradda si aad nuqul oga qaadatid.
+Si aad kumbuyuutarkaada ugu keydsato keydiyaha aad nuqulka ka sameysatay, marka hore tag koontadaada Github-ka, dooro keydiyaha nuqulka ah, guji badhanka code-ka, kadib ku dhufo sumadda sabuuradda si aad nuqul oga qaadatid.
 
 Fur shaashada madow ee kombuyuutarkaaga kadibna fuli amaradaan git-ka ee hoos ku xusan:
 
@@ -28,9 +28,10 @@ Halka "this-is-you" waa magacaaga github ku isticmaashid. halkan waxaad nuqul ka
 Abuur Laan
 U bedel keydiyaha ku keydsan kombuyuutarkaaga (haddi aadan hore ugu dhax jirin keydiyahaas).
 
-cd first-contributions
+`cd first-contributions`
 
 Haadda abuur laan adigoo isticmaalaya amarka git checkout:
 git checkout -b your-new-branch-name
 Tusaale:
 git checkout -b add-alonzo-church
+
